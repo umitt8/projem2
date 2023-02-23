@@ -5,3 +5,4 @@ v4 fdg
 v5
 v6
 v7 github dan sevgiler
+v7 kodlar
